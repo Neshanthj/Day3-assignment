@@ -1,0 +1,511 @@
+//1.//CountryDetails.html//Expected Output//
+
+name=French Polynesia region=Oceania sub region=Polynesia population=280904
+countryDetails.html:18 name=Saint Martin region=Americas sub region=Caribbean population=38659
+countryDetails.html:18 name=Venezuela region=Americas sub region=South America population=28435943
+countryDetails.html:18 name=Réunion region=Africa sub region=Eastern Africa population=840974
+countryDetails.html:18 name=El Salvador region=Americas sub region=Central America population=6486201
+countryDetails.html:18 name=Dominica region=Americas sub region=Caribbean population=71991
+countryDetails.html:18 name=Gibraltar region=Europe sub region=Southern Europe population=33691
+countryDetails.html:18 name=Kenya region=Africa sub region=Eastern Africa population=53771300
+countryDetails.html:18 name=Brazil region=Americas sub region=South America population=212559409
+countryDetails.html:18 name=Maldives region=Asia sub region=Southern Asia population=540542
+countryDetails.html:18 name=United States region=Americas sub region=North America population=329484123
+countryDetails.html:18 name=Cook Islands region=Oceania sub region=Polynesia population=18100
+countryDetails.html:18 name=Niue region=Oceania sub region=Polynesia population=1470
+countryDetails.html:18 name=Seychelles region=Africa sub region=Eastern Africa population=98462
+countryDetails.html:18 name=Central African Republic region=Africa sub region=Middle Africa population=4829764
+countryDetails.html:18 name=Tokelau region=Oceania sub region=Polynesia population=1411
+countryDetails.html:18 name=Vanuatu region=Oceania sub region=Melanesia population=307150
+countryDetails.html:18 name=Gambia region=Africa sub region=Western Africa population=2416664
+countryDetails.html:18 name=Guyana region=Americas sub region=South America population=786559
+countryDetails.html:18 name=Falkland Islands region=Americas sub region=South America population=2563
+countryDetails.html:18 name=Belgium region=Europe sub region=Western Europe population=11555997
+countryDetails.html:18 name=Western Sahara region=Africa sub region=Northern Africa population=510713
+countryDetails.html:18 name=Turkey region=Asia sub region=Western Asia population=84339067
+countryDetails.html:18 name=Saint Vincent and the Grenadines region=Americas sub region=Caribbean population=110947
+countryDetails.html:18 name=Pakistan region=Asia sub region=Southern Asia population=220892331
+countryDetails.html:18 name=Åland Islands region=Europe sub region=Northern Europe population=29458
+countryDetails.html:18 name=Iran region=Asia sub region=Southern Asia population=83992953
+countryDetails.html:18 name=Indonesia region=Asia sub region=South-Eastern Asia population=273523621
+countryDetails.html:18 name=New Zealand region=Oceania sub region=Australia and New Zealand population=5084300
+countryDetails.html:18 name=Afghanistan region=Asia sub region=Southern Asia population=40218234
+countryDetails.html:18 name=Guam region=Oceania sub region=Micronesia population=168783
+countryDetails.html:18 name=Albania region=Europe sub region=Southeast Europe population=2837743
+countryDetails.html:18 name=DR Congo region=Africa sub region=Middle Africa population=108407721
+countryDetails.html:18 name=Ivory Coast region=Africa sub region=Western Africa population=26378275
+countryDetails.html:18 name=Sudan region=Africa sub region=Northern Africa population=43849269
+countryDetails.html:18 name=Timor-Leste region=Asia sub region=South-Eastern Asia population=1318442
+countryDetails.html:18 name=Luxembourg region=Europe sub region=Western Europe population=632275
+countryDetails.html:18 name=Saudi Arabia region=Asia sub region=Western Asia population=34813867
+countryDetails.html:18 name=Cambodia region=Asia sub region=South-Eastern Asia population=16718971
+countryDetails.html:18 name=Nepal region=Asia sub region=Southern Asia population=29136808
+countryDetails.html:18 name=French Guiana region=Americas sub region=South America population=254541
+countryDetails.html:18 name=Malaysia region=Asia sub region=South-Eastern Asia population=32365998
+countryDetails.html:18 name=Rwanda region=Africa sub region=Eastern Africa population=12952209
+countryDetails.html:18 name=Thailand region=Asia sub region=South-Eastern Asia population=69799978
+countryDetails.html:18 name=Antarctica region=Antarctic sub region=undefined population=1000
+countryDetails.html:18 name=Jordan region=Asia sub region=Western Asia population=10203140
+countryDetails.html:18 name=Switzerland region=Europe sub region=Western Europe population=8654622
+countryDetails.html:18 name=Comoros region=Africa sub region=Eastern Africa population=869595
+countryDetails.html:18 name=Kosovo region=Europe sub region=Southeast Europe population=1775378
+countryDetails.html:18 name=Isle of Man region=Europe sub region=Northern Europe population=85032
+countryDetails.html:18 name=Montenegro region=Europe sub region=Southeast Europe population=621718
+countryDetails.html:18 name=Hong Kong region=Asia sub region=Eastern Asia population=7500700
+countryDetails.html:18 name=Jersey region=Europe sub region=Northern Europe population=100800
+countryDetails.html:18 name=Tajikistan region=Asia sub region=Central Asia population=9537642
+countryDetails.html:18 name=Bulgaria region=Europe sub region=Southeast Europe population=6927288
+countryDetails.html:18 name=Egypt region=Africa sub region=Northern Africa population=102334403
+countryDetails.html:18 name=Malawi region=Africa sub region=Eastern Africa population=19129955
+countryDetails.html:18 name=Cape Verde region=Africa sub region=Western Africa population=555988
+countryDetails.html:18 name=Benin region=Africa sub region=Western Africa population=12123198
+countryDetails.html:18 name=Morocco region=Africa sub region=Northern Africa population=36910558
+countryDetails.html:18 name=Ireland region=Europe sub region=Northern Europe population=4994724
+countryDetails.html:18 name=Moldova region=Europe sub region=Eastern Europe population=2617820
+countryDetails.html:18 name=Denmark region=Europe sub region=Northern Europe population=5831404
+countryDetails.html:18 name=Turkmenistan region=Asia sub region=Central Asia population=6031187
+countryDetails.html:18 name=Micronesia region=Oceania sub region=Micronesia population=115021
+countryDetails.html:18 name=Monaco region=Europe sub region=Western Europe population=39244
+countryDetails.html:18 name=Barbados region=Americas sub region=Caribbean population=287371
+countryDetails.html:18 name=Algeria region=Africa sub region=Northern Africa population=44700000
+countryDetails.html:18 name=French Southern and Antarctic Lands region=Antarctic sub region=undefined population=400
+countryDetails.html:18 name=Eritrea region=Africa sub region=Eastern Africa population=5352000
+countryDetails.html:18 name=Lesotho region=Africa sub region=Southern Africa population=2142252
+countryDetails.html:18 name=Tanzania region=Africa sub region=Eastern Africa population=59734213
+countryDetails.html:18 name=Mali region=Africa sub region=Western Africa population=20250834
+countryDetails.html:18 name=Niger region=Africa sub region=Western Africa population=24206636
+countryDetails.html:18 name=Andorra region=Europe sub region=Southern Europe population=77265
+countryDetails.html:18 name=United Kingdom region=Europe sub region=Northern Europe population=67215293
+countryDetails.html:18 name=Germany region=Europe sub region=Western Europe population=83240525
+countryDetails.html:18 name=United States Virgin Islands region=Americas sub region=Caribbean population=106290
+countryDetails.html:18 name=Somalia region=Africa sub region=Eastern Africa population=15893219
+countryDetails.html:18 name=Sint Maarten region=Americas sub region=Caribbean population=40812
+countryDetails.html:18 name=Cameroon region=Africa sub region=Middle Africa population=26545864
+countryDetails.html:18 name=Dominican Republic region=Americas sub region=Caribbean population=10847904
+countryDetails.html:18 name=Guinea region=Africa sub region=Western Africa population=13132792
+countryDetails.html:18 name=Namibia region=Africa sub region=Southern Africa population=2540916
+countryDetails.html:18 name=Montserrat region=Americas sub region=Caribbean population=4922
+countryDetails.html:18 name=South Georgia region=Antarctic sub region=undefined population=30
+countryDetails.html:18 name=Senegal region=Africa sub region=Western Africa population=16743930
+countryDetails.html:18 name=Bouvet Island region=Antarctic sub region=undefined population=0
+countryDetails.html:18 name=Solomon Islands region=Oceania sub region=Melanesia population=686878
+countryDetails.html:18 name=France region=Europe sub region=Western Europe population=67391582
+countryDetails.html:18 name=Saint Helena, Ascension and Tristan da Cunha region=Africa sub region=Western Africa population=53192
+countryDetails.html:18 name=Macau region=Asia sub region=Eastern Asia population=649342
+countryDetails.html:18 name=Argentina region=Americas sub region=South America population=45376763
+countryDetails.html:18 name=Bosnia and Herzegovina region=Europe sub region=Southeast Europe population=3280815
+countryDetails.html:18 name=Anguilla region=Americas sub region=Caribbean population=13452
+countryDetails.html:18 name=Guernsey region=Europe sub region=Northern Europe population=62999
+countryDetails.html:18 name=Djibouti region=Africa sub region=Eastern Africa population=988002
+countryDetails.html:18 name=Saint Kitts and Nevis region=Americas sub region=Caribbean population=53192
+countryDetails.html:18 name=Syria region=Asia sub region=Western Asia population=17500657
+countryDetails.html:18 name=Puerto Rico region=Americas sub region=Caribbean population=3194034
+countryDetails.html:18 name=Peru region=Americas sub region=South America population=32971846
+countryDetails.html:18 name=San Marino region=Europe sub region=Southern Europe population=33938
+countryDetails.html:18 name=Australia region=Oceania sub region=Australia and New Zealand population=25687041
+countryDetails.html:18 name=New Caledonia region=Oceania sub region=Melanesia population=271960
+countryDetails.html:18 name=Jamaica region=Americas sub region=Caribbean population=2961161
+countryDetails.html:18 name=Kazakhstan region=Asia sub region=Central Asia population=18754440
+countryDetails.html:18 name=Sierra Leone region=Africa sub region=Western Africa population=7976985
+countryDetails.html:18 name=Palau region=Oceania sub region=Micronesia population=18092
+countryDetails.html:18 name=South Korea region=Asia sub region=Eastern Asia population=51780579
+countryDetails.html:18 name=Saint Pierre and Miquelon region=Americas sub region=North America population=6069
+countryDetails.html:18 name=Belize region=Americas sub region=Central America population=397621
+countryDetails.html:18 name=Papua New Guinea region=Oceania sub region=Melanesia population=8947027
+countryDetails.html:18 name=Iceland region=Europe sub region=Northern Europe population=366425
+countryDetails.html:18 name=American Samoa region=Oceania sub region=Polynesia population=55197
+countryDetails.html:18 name=Burkina Faso region=Africa sub region=Western Africa population=20903278
+countryDetails.html:18 name=Portugal region=Europe sub region=Southern Europe population=10305564
+countryDetails.html:18 name=Taiwan region=Asia sub region=Eastern Asia population=23503349
+countryDetails.html:18 name=Japan region=Asia sub region=Eastern Asia population=125836021
+countryDetails.html:18 name=China region=Asia sub region=Eastern Asia population=1402112000
+countryDetails.html:18 name=Lebanon region=Asia sub region=Western Asia population=6825442
+countryDetails.html:18 name=Sri Lanka region=Asia sub region=Southern Asia population=21919000
+countryDetails.html:18 name=Guatemala region=Americas sub region=Central America population=16858333
+countryDetails.html:18 name=Serbia region=Europe sub region=Southeast Europe population=6908224
+countryDetails.html:18 name=Madagascar region=Africa sub region=Eastern Africa population=27691019
+countryDetails.html:18 name=Eswatini region=Africa sub region=Southern Africa population=1160164
+countryDetails.html:18 name=Romania region=Europe sub region=Southeast Europe population=19286123
+countryDetails.html:18 name=Antigua and Barbuda region=Americas sub region=Caribbean population=97928
+countryDetails.html:18 name=Curaçao region=Americas sub region=Caribbean population=155014
+countryDetails.html:18 name=Zambia region=Africa sub region=Eastern Africa population=18383956
+countryDetails.html:18 name=Zimbabwe region=Africa sub region=Southern Africa population=14862927
+countryDetails.html:18 name=Tunisia region=Africa sub region=Northern Africa population=11818618
+countryDetails.html:18 name=United Arab Emirates region=Asia sub region=Western Asia population=9890400
+countryDetails.html:18 name=Mongolia region=Asia sub region=Eastern Asia population=3278292
+countryDetails.html:18 name=Norway region=Europe sub region=Northern Europe population=5379475
+countryDetails.html:18 name=Greenland region=Americas sub region=North America population=56367
+countryDetails.html:18 name=Uruguay region=Americas sub region=South America population=3473727
+countryDetails.html:18 name=Bahamas region=Americas sub region=Caribbean population=393248
+countryDetails.html:18 name=Russia region=Europe sub region=Eastern Europe population=144104080
+countryDetails.html:18 name=British Virgin Islands region=Americas sub region=Caribbean population=30237
+countryDetails.html:18 name=Wallis and Futuna region=Oceania sub region=Polynesia population=11750
+countryDetails.html:18 name=Chad region=Africa sub region=Middle Africa population=16425859
+countryDetails.html:18 name=Saint Lucia region=Americas sub region=Caribbean population=183629
+countryDetails.html:18 name=Yemen region=Asia sub region=Western Asia population=29825968
+countryDetails.html:18 name=United States Minor Outlying Islands region=Americas sub region=North America population=300
+countryDetails.html:18 name=Sweden region=Europe sub region=Northern Europe population=10353442
+countryDetails.html:18 name=Svalbard and Jan Mayen region=Europe sub region=Northern Europe population=2562
+countryDetails.html:18 name=Laos region=Asia sub region=South-Eastern Asia population=7275556
+countryDetails.html:18 name=Latvia region=Europe sub region=Northern Europe population=1901548
+countryDetails.html:18 name=Colombia region=Americas sub region=South America population=50882884
+countryDetails.html:18 name=Grenada region=Americas sub region=Caribbean population=112519
+countryDetails.html:18 name=Saint Barthélemy region=Americas sub region=Caribbean population=4255
+countryDetails.html:18 name=Canada region=Americas sub region=North America population=38005238
+countryDetails.html:18 name=Heard Island and McDonald Islands region=Antarctic sub region=undefined population=0
+countryDetails.html:18 name=India region=Asia sub region=Southern Asia population=1380004385
+countryDetails.html:18 name=Guinea-Bissau region=Africa sub region=Western Africa population=1967998
+countryDetails.html:18 name=North Macedonia region=Europe sub region=Southeast Europe population=2077132
+countryDetails.html:18 name=Paraguay region=Americas sub region=South America population=7132530
+countryDetails.html:18 name=Croatia region=Europe sub region=Southeast Europe population=4047200
+countryDetails.html:18 name=Costa Rica region=Americas sub region=Central America population=5094114
+countryDetails.html:18 name=Uganda region=Africa sub region=Eastern Africa population=45741000
+countryDetails.html:18 name=Caribbean Netherlands region=Americas sub region=Caribbean population=25987
+countryDetails.html:18 name=Bolivia region=Americas sub region=South America population=11673029
+countryDetails.html:18 name=Togo region=Africa sub region=Western Africa population=8278737
+countryDetails.html:18 name=Mayotte region=Africa sub region=Eastern Africa population=226915
+countryDetails.html:18 name=Marshall Islands region=Oceania sub region=Micronesia population=59194
+countryDetails.html:18 name=North Korea region=Asia sub region=Eastern Asia population=25778815
+countryDetails.html:18 name=Netherlands region=Europe sub region=Western Europe population=16655799
+countryDetails.html:18 name=British Indian Ocean Territory region=Africa sub region=Eastern Africa population=3000
+countryDetails.html:18 name=Malta region=Europe sub region=Southern Europe population=525285
+countryDetails.html:18 name=Mauritius region=Africa sub region=Eastern Africa population=1265740
+countryDetails.html:18 name=Norfolk Island region=Oceania sub region=Australia and New Zealand population=2302
+countryDetails.html:18 name=Honduras region=Americas sub region=Central America population=9904608
+countryDetails.html:18 name=Spain region=Europe sub region=Southern Europe population=47351567
+countryDetails.html:18 name=Estonia region=Europe sub region=Northern Europe population=1331057
+countryDetails.html:18 name=Kyrgyzstan region=Asia sub region=Central Asia population=6591600
+countryDetails.html:18 name=Chile region=Americas sub region=South America population=19116209
+countryDetails.html:18 name=Bermuda region=Americas sub region=North America population=63903
+countryDetails.html:18 name=Equatorial Guinea region=Africa sub region=Middle Africa population=1402985
+countryDetails.html:18 name=Liberia region=Africa sub region=Western Africa population=5057677
+countryDetails.html:18 name=Pitcairn Islands region=Oceania sub region=Polynesia population=56
+countryDetails.html:18 name=Libya region=Africa sub region=Northern Africa population=6871287
+countryDetails.html:18 name=Liechtenstein region=Europe sub region=Western Europe population=38137
+countryDetails.html:18 name=Vatican City region=Europe sub region=Southern Europe population=451
+countryDetails.html:18 name=Christmas Island region=Oceania sub region=Australia and New Zealand population=2072
+countryDetails.html:18 name=Oman region=Asia sub region=Western Asia population=5106622
+countryDetails.html:18 name=Philippines region=Asia sub region=South-Eastern Asia population=109581085
+countryDetails.html:18 name=Poland region=Europe sub region=Central Europe population=37950802
+countryDetails.html:18 name=Faroe Islands region=Europe sub region=Northern Europe population=48865
+countryDetails.html:18 name=Bahrain region=Asia sub region=Western Asia population=1701583
+countryDetails.html:18 name=Belarus region=Europe sub region=Eastern Europe population=9398861
+countryDetails.html:18 name=Slovenia region=Europe sub region=Central Europe population=2100126
+countryDetails.html:18 name=Guadeloupe region=Americas sub region=Caribbean population=400132
+countryDetails.html:18 name=Qatar region=Asia sub region=Western Asia population=2881060
+countryDetails.html:18 name=Vietnam region=Asia sub region=South-Eastern Asia population=97338583
+countryDetails.html:18 name=Mauritania region=Africa sub region=Western Africa population=4649660
+countryDetails.html:18 name=Singapore region=Asia sub region=South-Eastern Asia population=5685807
+countryDetails.html:18 name=Georgia region=Asia sub region=Western Asia population=3714000
+countryDetails.html:18 name=Burundi region=Africa sub region=Eastern Africa population=11890781
+countryDetails.html:18 name=Nauru region=Oceania sub region=Micronesia population=10834
+countryDetails.html:18 name=South Sudan region=Africa sub region=Middle Africa population=11193729
+countryDetails.html:18 name=Samoa region=Oceania sub region=Polynesia population=198410
+countryDetails.html:18 name=Cocos (Keeling) Islands region=Oceania sub region=Australia and New Zealand population=544
+countryDetails.html:18 name=Republic of the Congo region=Africa sub region=Middle Africa population=5657000
+countryDetails.html:18 name=Cyprus region=Europe sub region=Southern Europe population=1207361
+countryDetails.html:18 name=Kuwait region=Asia sub region=Western Asia population=4270563
+countryDetails.html:18 name=Trinidad and Tobago region=Americas sub region=Caribbean population=1399491
+countryDetails.html:18 name=Tuvalu region=Oceania sub region=Polynesia population=11792
+countryDetails.html:18 name=Angola region=Africa sub region=Middle Africa population=32866268
+countryDetails.html:18 name=Tonga region=Oceania sub region=Polynesia population=105697
+countryDetails.html:18 name=Greece region=Europe sub region=Southern Europe population=10715549
+countryDetails.html:18 name=Mozambique region=Africa sub region=Eastern Africa population=31255435
+countryDetails.html:18 name=Myanmar region=Asia sub region=South-Eastern Asia population=54409794
+countryDetails.html:18 name=Austria region=Europe sub region=Central Europe population=8917205
+countryDetails.html:18 name=Ethiopia region=Africa sub region=Eastern Africa population=114963583
+countryDetails.html:18 name=Martinique region=Americas sub region=Caribbean population=378243
+countryDetails.html:18 name=Azerbaijan region=Asia sub region=Western Asia population=10110116
+countryDetails.html:18 name=Uzbekistan region=Asia sub region=Central Asia population=34232050
+countryDetails.html:18 name=Bangladesh region=Asia sub region=Southern Asia population=164689383
+countryDetails.html:18 name=Armenia region=Asia sub region=Western Asia population=2963234
+countryDetails.html:18 name=Nigeria region=Africa sub region=Western Africa population=206139587
+countryDetails.html:18 name=South Africa region=Africa sub region=Southern Africa population=59308690
+countryDetails.html:18 name=Brunei region=Asia sub region=South-Eastern Asia population=437483
+countryDetails.html:18 name=Italy region=Europe sub region=Southern Europe population=59554023
+countryDetails.html:18 name=Finland region=Europe sub region=Northern Europe population=5530719
+countryDetails.html:18 name=Israel region=Asia sub region=Western Asia population=9216900
+countryDetails.html:18 name=Aruba region=Americas sub region=Caribbean population=106766
+countryDetails.html:18 name=Nicaragua region=Americas sub region=Central America population=6624554
+countryDetails.html:18 name=Haiti region=Americas sub region=Caribbean population=11402533
+countryDetails.html:18 name=Kiribati region=Oceania sub region=Micronesia population=119446
+countryDetails.html:18 name=Turks and Caicos Islands region=Americas sub region=Caribbean population=38718
+countryDetails.html:18 name=Cayman Islands region=Americas sub region=Caribbean population=65720
+countryDetails.html:18 name=Ukraine region=Europe sub region=Eastern Europe population=44134693
+countryDetails.html:18 name=Mexico region=Americas sub region=North America population=128932753
+countryDetails.html:18 name=Palestine region=Asia sub region=Western Asia population=4803269
+countryDetails.html:18 name=Fiji region=Oceania sub region=Melanesia population=896444
+countryDetails.html:18 name=Slovakia region=Europe sub region=Central Europe population=5458827
+countryDetails.html:18 name=Ghana region=Africa sub region=Western Africa population=31072945
+countryDetails.html:18 name=Suriname region=Americas sub region=South America population=586634
+countryDetails.html:18 name=Cuba region=Americas sub region=Caribbean population=11326616
+countryDetails.html:18 name=Bhutan region=Asia sub region=Southern Asia population=771612
+countryDetails.html:18 name=Hungary region=Europe sub region=Central Europe population=9749763
+countryDetails.html:18 name=São Tomé and Príncipe region=Africa sub region=Middle Africa population=219161
+countryDetails.html:18 name=Iraq region=Asia sub region=Western Asia population=40222503
+countryDetails.html:18 name=Czechia region=Europe sub region=Central Europe population=10698896
+countryDetails.html:18 name=Lithuania region=Europe sub region=Northern Europe population=2794700
+countryDetails.html:18 name=Northern Mariana Islands region=Oceania sub region=Micronesia population=57557
+countryDetails.html:18 name=Botswana region=Africa sub region=Southern Africa population=2351625
+countryDetails.html:18 name=Panama region=Americas sub region=Central America population=4314768
+countryDetails.html:18 name=Gabon region=Africa sub region=Middle Africa population=2225728
+countryDetails.html:18 name=Ecuador region=Americas sub region=South America population=17643060
+
+//2.//Flag.html//Expected Output
+
+flag=🇵🇫
+flag.html:18 flag=🇲🇫
+flag.html:18 flag=🇻🇪
+flag.html:18 flag=🇷🇪
+flag.html:18 flag=🇸🇻
+flag.html:18 flag=🇩🇲
+flag.html:18 flag=🇬🇮
+flag.html:18 flag=🇰🇪
+flag.html:18 flag=🇧🇷
+flag.html:18 flag=🇲🇻
+flag.html:18 flag=🇺🇸
+flag.html:18 flag=🇨🇰
+flag.html:18 flag=🇳🇺
+flag.html:18 flag=🇸🇨
+flag.html:18 flag=🇨🇫
+flag.html:18 flag=🇹🇰
+flag.html:18 flag=🇻🇺
+flag.html:18 flag=🇬🇲
+flag.html:18 flag=🇬🇾
+flag.html:18 flag=🇫🇰
+flag.html:18 flag=🇧🇪
+flag.html:18 flag=🇪🇭
+flag.html:18 flag=🇹🇷
+flag.html:18 flag=🇻🇨
+flag.html:18 flag=🇵🇰
+flag.html:18 flag=🇦🇽
+flag.html:18 flag=🇮🇷
+flag.html:18 flag=🇮🇩
+flag.html:18 flag=🇳🇿
+flag.html:18 flag=🇦🇫
+flag.html:18 flag=🇬🇺
+flag.html:18 flag=🇦🇱
+flag.html:18 flag=🇨🇩
+flag.html:18 flag=🇨🇮
+flag.html:18 flag=🇸🇩
+flag.html:18 flag=🇹🇱
+flag.html:18 flag=🇱🇺
+flag.html:18 flag=🇸🇦
+flag.html:18 flag=🇰🇭
+flag.html:18 flag=🇳🇵
+flag.html:18 flag=🇬🇫
+flag.html:18 flag=🇲🇾
+flag.html:18 flag=🇷🇼
+flag.html:18 flag=🇹🇭
+flag.html:18 flag=🇦🇶
+flag.html:18 flag=🇯🇴
+flag.html:18 flag=🇨🇭
+flag.html:18 flag=🇰🇲
+flag.html:18 flag=🇽🇰
+flag.html:18 flag=🇮🇲
+flag.html:18 flag=🇲🇪
+flag.html:18 flag=🇭🇰
+flag.html:18 flag=🇯🇪
+flag.html:18 flag=🇹🇯
+flag.html:18 flag=🇧🇬
+flag.html:18 flag=🇪🇬
+flag.html:18 flag=🇲🇼
+flag.html:18 flag=🇨🇻
+flag.html:18 flag=🇧🇯
+flag.html:18 flag=🇲🇦
+flag.html:18 flag=🇮🇪
+flag.html:18 flag=🇲🇩
+flag.html:18 flag=🇩🇰
+flag.html:18 flag=🇹🇲
+flag.html:18 flag=🇫🇲
+flag.html:18 flag=🇲🇨
+flag.html:18 flag=🇧🇧
+flag.html:18 flag=🇩🇿
+flag.html:18 flag=🇹🇫
+flag.html:18 flag=🇪🇷
+flag.html:18 flag=🇱🇸
+flag.html:18 flag=🇹🇿
+flag.html:18 flag=🇲🇱
+flag.html:18 flag=🇳🇪
+flag.html:18 flag=🇦🇩
+flag.html:18 flag=🇬🇧
+flag.html:18 flag=🇩🇪
+flag.html:18 flag=🇻🇮
+flag.html:18 flag=🇸🇴
+flag.html:18 flag=🇸🇽
+flag.html:18 flag=🇨🇲
+flag.html:18 flag=🇩🇴
+flag.html:18 flag=🇬🇳
+flag.html:18 flag=🇳🇦
+flag.html:18 flag=🇲🇸
+flag.html:18 flag=🇬🇸
+flag.html:18 flag=🇸🇳
+flag.html:18 flag=🇧🇻
+flag.html:18 flag=🇸🇧
+flag.html:18 flag=🇫🇷
+flag.html:18 flag=🇸🇭
+flag.html:18 flag=🇲🇴
+flag.html:18 flag=🇦🇷
+flag.html:18 flag=🇧🇦
+flag.html:18 flag=🇦🇮
+flag.html:18 flag=🇬🇬
+flag.html:18 flag=🇩🇯
+flag.html:18 flag=🇰🇳
+flag.html:18 flag=🇸🇾
+flag.html:18 flag=🇵🇷
+flag.html:18 flag=🇵🇪
+flag.html:18 flag=🇸🇲
+flag.html:18 flag=🇦🇺
+flag.html:18 flag=🇳🇨
+flag.html:18 flag=🇯🇲
+flag.html:18 flag=🇰🇿
+flag.html:18 flag=🇸🇱
+flag.html:18 flag=🇵🇼
+flag.html:18 flag=🇰🇷
+flag.html:18 flag=🇵🇲
+flag.html:18 flag=🇧🇿
+flag.html:18 flag=🇵🇬
+flag.html:18 flag=🇮🇸
+flag.html:18 flag=🇦🇸
+flag.html:18 flag=🇧🇫
+flag.html:18 flag=🇵🇹
+flag.html:18 flag=🇹🇼
+flag.html:18 flag=🇯🇵
+flag.html:18 flag=🇨🇳
+flag.html:18 flag=🇱🇧
+flag.html:18 flag=🇱🇰
+flag.html:18 flag=🇬🇹
+flag.html:18 flag=🇷🇸
+flag.html:18 flag=🇲🇬
+flag.html:18 flag=🇸🇿
+flag.html:18 flag=🇷🇴
+flag.html:18 flag=🇦🇬
+flag.html:18 flag=🇨🇼
+flag.html:18 flag=🇿🇲
+flag.html:18 flag=🇿🇼
+flag.html:18 flag=🇹🇳
+flag.html:18 flag=🇦🇪
+flag.html:18 flag=🇲🇳
+flag.html:18 flag=🇳🇴
+flag.html:18 flag=🇬🇱
+flag.html:18 flag=🇺🇾
+flag.html:18 flag=🇧🇸
+flag.html:18 flag=🇷🇺
+flag.html:18 flag=🇻🇬
+flag.html:18 flag=🇼🇫
+flag.html:18 flag=🇹🇩
+flag.html:18 flag=🇱🇨
+flag.html:18 flag=🇾🇪
+flag.html:18 flag=🇺🇲
+flag.html:18 flag=🇸🇪
+flag.html:18 flag=🇸🇯
+flag.html:18 flag=🇱🇦
+flag.html:18 flag=🇱🇻
+flag.html:18 flag=🇨🇴
+flag.html:18 flag=🇬🇩
+flag.html:18 flag=🇧🇱
+flag.html:18 flag=🇨🇦
+flag.html:18 flag=🇭🇲
+flag.html:18 flag=🇮🇳
+flag.html:18 flag=🇬🇼
+flag.html:18 flag=🇲🇰
+flag.html:18 flag=🇵🇾
+flag.html:18 flag=🇭🇷
+flag.html:18 flag=🇨🇷
+flag.html:18 flag=🇺🇬
+flag.html:18 flag=🇧🇶
+flag.html:18 flag=🇧🇴
+flag.html:18 flag=🇹🇬
+flag.html:18 flag=🇾🇹
+flag.html:18 flag=🇲🇭
+flag.html:18 flag=🇰🇵
+flag.html:18 flag=🇳🇱
+flag.html:18 flag=🇮🇴
+flag.html:18 flag=🇲🇹
+flag.html:18 flag=🇲🇺
+flag.html:18 flag=🇳🇫
+flag.html:18 flag=🇭🇳
+flag.html:18 flag=🇪🇸
+flag.html:18 flag=🇪🇪
+flag.html:18 flag=🇰🇬
+flag.html:18 flag=🇨🇱
+flag.html:18 flag=🇧🇲
+flag.html:18 flag=🇬🇶
+flag.html:18 flag=🇱🇷
+flag.html:18 flag=🇵🇳
+flag.html:18 flag=🇱🇾
+flag.html:18 flag=🇱🇮
+flag.html:18 flag=🇻🇦
+flag.html:18 flag=🇨🇽
+flag.html:18 flag=🇴🇲
+flag.html:18 flag=🇵🇭
+flag.html:18 flag=🇵🇱
+flag.html:18 flag=🇫🇴
+flag.html:18 flag=🇧🇭
+flag.html:18 flag=🇧🇾
+flag.html:18 flag=🇸🇮
+flag.html:18 flag=🇬🇵
+flag.html:18 flag=🇶🇦
+flag.html:18 flag=🇻🇳
+flag.html:18 flag=🇲🇷
+flag.html:18 flag=🇸🇬
+flag.html:18 flag=🇬🇪
+flag.html:18 flag=🇧🇮
+flag.html:18 flag=🇳🇷
+flag.html:18 flag=🇸🇸
+flag.html:18 flag=🇼🇸
+flag.html:18 flag=🇨🇨
+flag.html:18 flag=🇨🇬
+flag.html:18 flag=🇨🇾
+flag.html:18 flag=🇰🇼
+flag.html:18 flag=🇹🇹
+flag.html:18 flag=🇹🇻
+flag.html:18 flag=🇦🇴
+flag.html:18 flag=🇹🇴
+flag.html:18 flag=🇬🇷
+flag.html:18 flag=🇲🇿
+flag.html:18 flag=🇲🇲
+flag.html:18 flag=🇦🇹
+flag.html:18 flag=🇪🇹
+flag.html:18 flag=🇲🇶
+flag.html:18 flag=🇦🇿
+flag.html:18 flag=🇺🇿
+flag.html:18 flag=🇧🇩
+flag.html:18 flag=🇦🇲
+flag.html:18 flag=🇳🇬
+flag.html:18 flag=🇿🇦
+flag.html:18 flag=🇧🇳
+flag.html:18 flag=🇮🇹
+flag.html:18 flag=🇫🇮
+flag.html:18 flag=🇮🇱
+flag.html:18 flag=🇦🇼
+flag.html:18 flag=🇳🇮
+flag.html:18 flag=🇭🇹
+flag.html:18 flag=🇰🇮
+flag.html:18 flag=🇹🇨
+flag.html:18 flag=🇰🇾
+flag.html:18 flag=🇺🇦
+flag.html:18 flag=🇲🇽
+flag.html:18 flag=🇵🇸
+flag.html:18 flag=🇫🇯
+flag.html:18 flag=🇸🇰
+flag.html:18 flag=🇬🇭
+flag.html:18 flag=🇸🇷
+flag.html:18 flag=🇨🇺
+flag.html:18 flag=🇧🇹
+flag.html:18 flag=🇭🇺
+flag.html:18 flag=🇸🇹
+flag.html:18 flag=🇮🇶
+flag.html:18 flag=🇨🇿
+flag.html:18 flag=🇱🇹
+flag.html:18 flag=🇲🇵
+flag.html:18 flag=🇧🇼
+flag.html:18 flag=🇵🇦
+flag.html:18 flag=🇬🇦
+flag.html:18 flag=🇪🇨
+
+//3.//task3.js//Expected Output
+
+PS C:\Users\Neshanth\Documents\day 3> node task3.js
+compares are the same
+PS C:\Users\Neshanth\Documents\day 3> 
